@@ -20,7 +20,7 @@ void loop() {
   LCD.print("Plant the Bomb:"); LCD.setCursor(0,1); LCD.print("press (y/n)");  //Printing message in LCD display
   
   while (Serial.available() == 0);  // Waiting for user input 
-  choice = Serial.read();  //assigning user input to charter variable choice
+  choice = Serial.read();  //assigning user input to charter variable choice.
 
   //desision control Structure.
   if (choice == 'y'){
