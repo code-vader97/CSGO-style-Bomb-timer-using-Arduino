@@ -1,0 +1,7 @@
+Name,Quantity,Component
+Uno,1, Arduino Uno R3 
+LCD Display,1, LCD 16 x 2  
+"R1, R2, R3",3,330 ohm Resistor 
+pot,1,"250 kOhm,  Potentiometer "
+Buzzer,1, Piezo 
+LED,1,Red LED 
